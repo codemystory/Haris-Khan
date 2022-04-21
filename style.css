@@ -131,6 +131,25 @@ li a:hover,li.active {
             position: fixed;
             font-size: 25px;
         color: white;}
+.music-toggle{
+
+  font-size: 20px;
+
+  font-family: 'Fontawesome';
+
+content: "\f1be";
+
+}
+
+.toggle:before,
+
+ .toggle:after {
+
+  font-size: 20px;
+
+  font-family: 'Fontawesome';
+
+  content: "\f1be";}
         
 
      
